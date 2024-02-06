@@ -1,0 +1,139 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+html,body{
+    background-color:black;
+    height: 100%;
+    width: 100%;
+    
+}
+#chat{
+    color: yellow;
+    position: absolute;
+    left: 90rem;
+    bottom: 90%;
+    font-size: 45px;
+}
+.text-container{
+    position: absolute;
+    left: 50rem;
+    bottom: 10%;
+    text-align: center;
+
+}
+.text1{
+    color: white;
+    font-size: 50px;
+    padding-top: 5px;
+    letter-spacing: 3px;
+    font-family: 'Times New Roman', Times, serif;
+   
+    
+}
+.text2{
+    color: aqua;
+    font-size: 45px;
+    font-family: 'Times New Roman', Times, serif;
+    padding-top: 30px;
+    padding-top: 10px;
+    letter-spacing: 5px;
+    
+}
+.text3{
+    color: white;
+    font-size: x-large;
+    padding-top: 30px;
+    font-family: 'Times New Roman', Times, serif;
+    letter-spacing: 3px;
+}
+.text4{
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+    padding-top: 100px;
+    
+}
+.icon{
+    color: white;
+    padding-top: 10px;
+    position: relative;
+    left: 100px;
+    display: flex;
+    justify-content: space-evenly;
+    font-size: small;
+    /* padding: 100px; */
+    margin: 50px;
+}
+#para1{
+    padding: 5px;
+}
+.icon img{
+    height: 20px;
+    width: 15px;
+}
+#para1{
+    font-size: 7px;
+
+}
+.box1{
+    background-color:  #FFC90D;
+    border-radius: 15px;
+    color: #FF00CF;
+    width: 1520px;
+    height: 500px;
+
+    font-size: 50px;
+    border: 2px solid black;
+    padding: 10px;
+    text-align: center;
+    /* line-height: 100px; */
+    padding: 10px 20p 10px 20px;
+
+}
+
+.box2{
+    background-color: rgb(43, 44, 43);
+    padding: 20px;
+    box-sizing: border-box;
+    justify-content: space-evenly;
+    display: flex;
+
+
+}
+#h{
+    color: #FF00CF;
+    padding: auto;
+    font-size: 20px;
+}
+#p1{
+    color: white;
+}
+#ul{
+    color: white;
+}
+.first{
+    border-right: 2px solid white;
+}
+.second{
+    border-right: 2px solid white;
+}
+.third{
+    border-right: 2px solid white;
+}
+
+.box3{
+
+    color: white;
+    display: flex;
+    margin-left: 80px;
+    margin-top: 100px;
+
+}
+.second-img{
+    position: absolute;
+    bottom: 80
+    
+
+  
+
+}
